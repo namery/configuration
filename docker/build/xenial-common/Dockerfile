@@ -1,5 +1,5 @@
 ARG BASE_IMAGE_TAG=latest
-FROM ubuntu:xenial
+FROM ubuntu:xenial-20210416
 LABEL maintainer="edxops"
 
 # Set locale to UTF-8 which is not the default for docker.
