@@ -1,4 +1,4 @@
-FROM ubuntu:bionic
+FROM ubuntu:18.04
 
 # Set locale to UTF-8 which is not the default for docker.
 # See the links for details:
