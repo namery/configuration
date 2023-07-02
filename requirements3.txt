@@ -4,7 +4,7 @@
 #
 #    make upgrade
 #
-awscli==1.15.19           # via -r requirements/ses-limits.in
+awscli==1.27.90           # via -r requirements/ses-limits.in
 boto3==1.7.14             # via -r requirements/ses-limits.in
 botocore==1.10.19         # via awscli, boto3, s3transfer
 colorama==0.3.7           # via awscli
