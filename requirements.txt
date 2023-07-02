@@ -5,7 +5,7 @@
 #    make upgrade
 #
 ansible==2.7.12           # via -r requirements/base.in
-awscli==1.15.19           # via -r requirements/base.in
+awscli==1.27.90           # via -r requirements/base.in
 bcrypt==3.1.7             # via paramiko
 boto3==1.7.14             # via -r requirements/base.in
 boto==2.48.0              # via -r requirements/base.in
