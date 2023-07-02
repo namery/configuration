@@ -6,7 +6,7 @@
 #
 amqp==1.4.9               # via kombu
 anyjson==0.3.3            # via kombu
-awscli==1.14.32           # via -r requirements/celery_progress.in
+awscli==1.27.90           # via -r requirements/celery_progress.in
 backoff==1.4.3            # via -r requirements/celery_progress.in
 billiard==3.3.0.23        # via celery
 boto3==1.5.4              # via -r requirements/celery_progress.in
