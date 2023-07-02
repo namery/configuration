@@ -6,7 +6,7 @@
 #
 amqp==1.4.9               # via kombu
 anyjson==0.3.3            # via kombu
-awscli==1.14.32
+awscli==1.27.90
 backoff==1.4.3
 billiard==3.3.0.23        # via celery
 boto3==1.5.4
