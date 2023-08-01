@@ -4,10 +4,10 @@
 #
 #    make upgrade
 #
-awscli==1.14.32           # via -r requirements/celery.in
+awscli==1.16.213           # via -r requirements/celery.in
 backoff==1.4.3            # via -r requirements/celery.in
 boto3==1.5.4              # via -r requirements/celery.in
-botocore==1.8.36          # via awscli, boto3, s3transfer
+botocore==1.9.12          # via awscli, boto3, s3transfer
 click==6.7                # via -r requirements/celery.in
 colorama==0.3.7           # via awscli
 docutils==0.16            # via awscli, botocore
