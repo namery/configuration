@@ -18,7 +18,7 @@ click==6.7                # via -r requirements/celery_progress.in
 colorama==0.3.7           # via awscli
 docutils==0.16            # via awscli, botocore
 futures==3.3.0 ; python_version == "2.7"  # via -r requirements/celery_progress.in, s3transfer
-idna==2.9                 # via requests
+idna==3.7                 # via requests
 jmespath==0.9.5           # via boto3, botocore
 kombu==3.0.37             # via celery
 opsgenie-sdk==0.3.1       # via -r requirements/celery_progress.in
