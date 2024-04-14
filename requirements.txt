@@ -22,7 +22,7 @@ docutils==0.16            # via awscli, botocore
 ecdsa==0.13.3             # via -r requirements/base.in
 enum34==1.1.10            # via cryptography
 futures==3.3.0 ; python_version == "2.7"  # via -r requirements/base.in, s3transfer
-idna==2.7                 # via requests
+idna==3.7                 # via requests
 ipaddress==1.0.23         # via cryptography
 jinja2==2.8               # via -r requirements/base.in, ansible
 jmespath==0.9.5           # via boto3, botocore
