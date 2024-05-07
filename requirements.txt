@@ -24,7 +24,7 @@ enum34==1.1.10            # via cryptography
 futures==3.3.0 ; python_version == "2.7"  # via -r requirements/base.in, s3transfer
 idna==2.7                 # via requests
 ipaddress==1.0.23         # via cryptography
-jinja2==2.8               # via -r requirements/base.in, ansible
+jinja2==3.1.4               # via -r requirements/base.in, ansible
 jmespath==0.9.5           # via boto3, botocore
 markupsafe==1.0           # via -r requirements/base.in, jinja2
 mysqlclient==1.3.0        # via -r requirements/base.in
