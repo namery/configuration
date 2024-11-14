@@ -1,4 +1,4 @@
-FROM ubuntu:trusty
+FROM ubuntu:trusty-20190425
 LABEL maintainer="edxops" 
 ENV ANSIBLE_REPO="https://github.com/edx/ansible"
 ENV CONFIGURATION_REPO="https://github.com/edx/configuration.git"
