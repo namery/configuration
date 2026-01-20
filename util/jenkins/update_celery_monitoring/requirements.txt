@@ -13,7 +13,7 @@ colorama==0.3.7           # via awscli
 docutils==0.16            # via awscli, botocore
 futures==3.3.0 ; python_version == "2.7"  # via -r requirements/celery.in, s3transfer
 jmespath==0.9.5           # via boto3, botocore
-pyasn1==0.4.8             # via rsa
+pyasn1==0.6.2             # via rsa
 python-dateutil==2.8.1    # via botocore
 pyyaml==3.12              # via awscli
 redis==2.10.6             # via -r requirements/celery.in
