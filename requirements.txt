@@ -32,7 +32,7 @@ networkx==1.11            # via -r requirements/base.in
 paramiko==2.4.2           # via -r requirements/base.in, ansible
 pathlib2==2.3.0           # via -r requirements/base.in
 prettytable==0.7.2        # via -r requirements/base.in
-pyasn1==0.4.8             # via paramiko, rsa
+pyasn1==0.6.2             # via paramiko, rsa
 pycparser==2.20           # via cffi
 pycrypto==2.6.1           # via -r requirements/base.in
 pymongo==3.9.0            # via -r requirements/base.in
